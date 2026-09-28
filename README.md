@@ -67,7 +67,7 @@ The library is divided into three parts:
 
 ---
 
-### **Bonus — Linked List Functions**
+### **Part 3 — Linked List Functions**
 
 | Function | Description |
 |----------|-------------|
